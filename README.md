@@ -18,7 +18,7 @@ the code at the
 # Navigate to the right folder
 
 After cloning the repo use the `cd` command to move into the repo you just
-cloned with `cd DVWA`. Run `ls` to view the current files in the folder.
+cloned with `cd DVWA`. Run `ls` to view the current files in the folder. Windows users might need to use `dir` instead.
 
 It should look something like this.
 ![Screenshot 2023-10-30 at 2 55 16 PM](https://github.com/drew-harris/dvwa-tutorial/assets/61394759/66df3c9c-a45a-426d-aa2e-12b3dc3874f9)
