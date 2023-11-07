@@ -33,6 +33,11 @@ It should start automatically and after some time you should be able to access i
 If you get this error, you need to build the dvwa virtual machine on your own. 
 Simply do `docker compose up --build` to build the virtual machine and start it up. It should then be accessible on [http://localhost:4280](http://localhost:4280). 
 
+# Logging In
+The default username for dvwa is: "admin"
+
+The default password is: "password"
+
 # Inspecting Files
 While playing around with DVWA, you may want to inspect the files on the virtual machine. You can do this in the Docker Desktop app. 
 Click the container called `dvwa-1` 
